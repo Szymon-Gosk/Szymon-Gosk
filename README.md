@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Szymon-Gosk
-- 👀 I’m interested in Java, Spring, Functional programming, Mathematics(Category theory, Proof theory, Formal logic, Analysis) 
+- 👀 I’m interested in Java, Spring, Functional programming, Mathematics (Category theory, Proof theory, Formal logic, Analysis) 
 - 🌱 I’m currently learning Spring
 
 <!---
